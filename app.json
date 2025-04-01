@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "EatSoon",
-    "slug": "EatSoon",
+    "name": "my-inventory-app",
+    "slug": "my-inventory-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
